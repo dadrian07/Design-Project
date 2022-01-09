@@ -1,0 +1,35 @@
+.nav{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.link1{
+    color: blue;
+}
+
+
+.topics{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.link2{
+    color: blue;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    color:  white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.bing{
+    text-align: center;
+    font-size: 30px;
+}

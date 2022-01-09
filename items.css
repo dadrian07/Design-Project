@@ -1,0 +1,51 @@
+.link1{
+    color: blue;
+    font-size: 25px;
+}
+nav{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.link{
+    border: 1px black solid;
+    text-align: center;
+    margin: 180px;
+    color: blue;
+    font-size: 25px;
+}
+
+.link2{
+    border: 1px black solid;
+    text-align: center;
+    margin: 120px;
+    color: blue;
+    font-size: 25px;
+}
+
+
+.p1{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+img{
+    border: 5px black solid;
+    width: 30%;
+    margin: 10px;
+    display: inline-block;
+}
+
+.img1{
+    border: 5px black solid;
+    width: 200px;
+    height: 250px;
+    margin: 65px;
+    display: inline-block;
+    
+}
+
+
+

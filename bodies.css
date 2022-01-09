@@ -1,0 +1,33 @@
+.nav{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.link1{
+    color: rgb(0, 0, 255);
+}
+
+.link2{
+    color: rgb(0, 0, 255);
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.topics{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+.img1{
+    position: absolute;
+    width: 90%;
+    right: 70px;
+}
+
+
